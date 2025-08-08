@@ -1,4 +1,4 @@
-#!/Users/garrett.broberg/personal/FlaskApi/.venv/bin/python3.10
+#!/Users/garrettbroberg/repos/flask_rest_api/.venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
